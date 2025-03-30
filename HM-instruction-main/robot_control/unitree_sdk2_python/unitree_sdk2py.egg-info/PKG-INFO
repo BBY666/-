@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: unitree_sdk2py
+Version: 1.0.0
+Summary: Unitree robot sdk version 2 for python
+Author: Unitree
+Author-email: unitree@unitree.com
+License: BSD-3-Clause
+Requires-Python: >=3.8
+License-File: LICENSE
+Requires-Dist: cyclonedds==0.10.2
+Requires-Dist: numpy
+Requires-Dist: opencv-python
